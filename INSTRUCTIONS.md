@@ -81,5 +81,5 @@ listed, you can type in any custom code (like 'tgl' for Tagalog) during
 the interactive setup.
 
 Questions? Issues? Open a ticket on GitHub!
-Made by SaaS-Hole-Solutions
+Made by Chops Garbage Collection
 
