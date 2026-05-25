@@ -13,7 +13,7 @@
     Subtitle Management Utility v1.1
 ```
 
-*Made by SaaS-Hole-Solutions*
+*Made by Chops Garbage Collection*
 
 </div>
 
@@ -387,6 +387,6 @@ Archive Log:       C:\Backups\Media_Subtitles\Backup_20240214_153217\archive_log
 
 Distributed under the MIT License.
 
-Made by **SaaS-Hole-Solutions** for the self-hosted community. Enjoy! 🎬
+Made by **Chops Garbage Collection** for the self-hosted community. Enjoy! 🎬
 
 </div>
