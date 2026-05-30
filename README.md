@@ -245,15 +245,6 @@ Result: Uses "tgl" for Tagalog subtitles
 
 ---
 
-## 📋 Documentation
-
-- **README.txt** - Complete user guide
-- **QUICK_REFERENCE.txt** - One-page cheat sheet
-- **USAGE_EXAMPLES.txt** - Real-world scenarios
-- **CHANGELOG.txt** - Version history
-
----
-
 ## 🔧 Development
 
 ### Building from Source
@@ -299,14 +290,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - GUI version
 - Linux/macOS support
 - Additional subtitle formats
-
----
-
-## 📄 License
-
-This software is provided "as is" without warranty of any kind. Use at your own risk.
-
-Always backup your data before running utilities that modify your file system.
 
 ---
 
@@ -384,6 +367,10 @@ Archive Log:       C:\Backups\Media_Subtitles\Backup_20240214_153217\archive_log
 <div align="center">
 
 ## ⚖️ License
+
+This software is provided "as is" without warranty of any kind. Use at your own risk.
+
+Always backup your data before running utilities that modify your file system.
 
 Distributed under the MIT License.
 
